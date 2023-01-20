@@ -1,6 +1,12 @@
 # church
 
-A new Flutter project.
+- Getx
+
+- cloud firestore
+
+- firebase storage 
+
+- firebase authentication 
 
 ## Getting Started
 
